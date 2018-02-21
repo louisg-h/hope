@@ -8,6 +8,6 @@ setup(
     author="louisgh",
     author_email="louisgateshardiman@gmail.com",
     licence="GPL3",
-    packages=['hope'],
+    packages=['hope']
   
 )
