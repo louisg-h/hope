@@ -6,12 +6,12 @@ Created on 21 Feb 2018
 import platform
 
 def cpu():
-    print(platform.processor())
-    return
+    proc = platform.processor()
+    return proc
 
 def os():
-    print(platform.platform())
-    return
+    plat = platform.platform()
+    return plat
 
 if __name__ == '__main__':
     pass
